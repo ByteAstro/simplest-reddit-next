@@ -1,3 +1,4 @@
-### next-snippets
-- A simple project of 
-- performing crud operations on code snippets
+### simplest reddit
+- A simple NextJs project of
+- providing post related opearations like reddit
+- But at a very basic level
